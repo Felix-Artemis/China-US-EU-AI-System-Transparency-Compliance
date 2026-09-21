@@ -1,2 +1,5 @@
 # China-US-EU-AI-System-Transparency-Compliance
-Scope: EU, US, and Mainland China. For preliminary assessment of AI transparency, user notice, and labeling obligations before product or AI feature launch. It helps identify risks, clarify responsibilities and remediation needs, and support further formal compliance review.
+**Scope of Application:** European Union, United States, and Mainland China. This Skill is intended solely for the preliminary assessment of AI transparency and disclosure/labeling obligations.
+This Skill is primarily designed to conduct a structured preliminary screening of applicable transparency, user notification, and labeling obligations before the launch of a product or AI-enabled feature. Based on the assessment results, it may generate conclusions such as “Launch Deferred,” “Conditional Launch,” “Unable to Confirm at This Stage,” or “Launch Permitted (Subject to Ongoing Obligations).”
+Its primary purpose is to assist business teams in identifying transparency-related risks at an early stage of a project, preliminarily clarifying the allocation of responsibilities and required remediation measures, and providing a reference basis for any subsequent formal compliance assessment.
+
