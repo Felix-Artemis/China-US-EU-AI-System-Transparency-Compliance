@@ -1,0 +1,7 @@
+interface:
+  display_name: "AI Compliance Online Lite"
+  short_description: "无内置法规库、按官方 URL 联网核验的中欧加 AI 合规初筛"
+  default_prompt: "Use $global-ai-system-model-compliance-online-lite to assess this AI product. Ask business facts in plain language, retrieve only applicable official sources online, and give the conclusion directly in Chinese."
+
+policy:
+  allow_implicit_invocation: true
